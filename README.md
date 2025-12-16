@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Snake animation](https://github.com/A-tio/A-tio/blob/output/github-contribution-grid-snake.svg)
 <!--
 **A-tio/A-tio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
