@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Alyssa</h1>
-<h3 align="center">A dedicated frontend developer from Philippines ✨</h3>
+<h1 align="center">Hi, I'm Alyssa</h1>
+<h3 align="center">A Frontend developer from Philippines</h3>
 
 ![snake gif](https://github.com/A-tio/A-tio/blob/output/github-snake-dark.svg)
 
